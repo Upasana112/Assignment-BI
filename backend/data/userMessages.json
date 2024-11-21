@@ -1,0 +1,874 @@
+{
+  "111": {
+    "messages": [
+      {
+        "timestamp": "2024-11-21T13:49:52.101Z",
+        "messageBody": "Hello"
+      },
+      {
+        "timestamp": "2024-11-21T14:11:51.499Z",
+        "messageBody": "Nope"
+      },
+      {
+        "timestamp": "2024-11-21T14:21:00.909Z",
+        "messageBody": "Yo"
+      },
+      {
+        "timestamp": "2024-11-21T17:31:46.697Z",
+        "messageBody": "hello annna"
+      }
+    ],
+    "taken": true,
+    "index": 4,
+    "chatHistory": [
+      {
+        "type": "agent",
+        "message": "hi"
+      },
+      {
+        "type": "user",
+        "message": "Hello"
+      },
+      {
+        "type": "agent",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "type": "user",
+        "message": "Nope"
+      },
+      {
+        "type": "agent",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "type": "user",
+        "message": "Yo"
+      },
+      {
+        "type": "agent",
+        "message": "Hello! How can I assist you today?"
+      },
+      {
+        "type": "user",
+        "message": "hello annna"
+      }
+    ]
+  },
+  "208": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T13:35:45.000Z",
+        "messageBody": "Hi branch I requested my number to remain the one I was using there before 0720225243  I don't understand how it changed"
+      },
+      {
+        "timestamp": "2017-02-01T13:51:18.000Z",
+        "messageBody": "Why was my application rejected"
+      },
+      {
+        "timestamp": "2017-02-01T13:51:58.000Z",
+        "messageBody": "The dates of payment are still indicated n no money sent"
+      },
+      {
+        "timestamp": "2017-02-01T13:59:05.000Z",
+        "messageBody": "So it means if u pay ua loan before the due date is a disadvantage the last time I paid earlier it was still a problem"
+      },
+      {
+        "timestamp": "2024-11-21T06:53:49.882Z",
+        "messageBody": "Hello"
+      },
+      {
+        "timestamp": "2024-11-21T13:53:08.885Z",
+        "messageBody": "Nope"
+      }
+    ],
+    "taken": true,
+    "index": 5,
+    "chatHistory": [
+      {
+        "type": "agent",
+        "message": "hi"
+      },
+      {
+        "type": "user",
+        "message": "Hi branch I requested my number to remain the one I was using there before 0720225243  I don't understand how it changed"
+      },
+      {
+        "type": "agent",
+        "message": "Can you clarify your question?"
+      },
+      {
+        "type": "user",
+        "message": "Why was my application rejected"
+      },
+      {
+        "type": "agent",
+        "message": "I'll get back to you shortly!"
+      },
+      {
+        "type": "user",
+        "message": "The dates of payment are still indicated n no money sent"
+      },
+      {
+        "type": "agent",
+        "message": "Can you please provide more details?"
+      },
+      {
+        "type": "user",
+        "message": "So it means if u pay ua loan before the due date is a disadvantage the last time I paid earlier it was still a problem"
+      },
+      {
+        "type": "agent",
+        "message": "Let me find the best solution for you."
+      },
+      {
+        "type": "user",
+        "message": "Hello"
+      }
+    ]
+  },
+  "218": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T06:37:07.000Z",
+        "messageBody": "I have a late source of salary i expected but i will pay nexr"
+      },
+      {
+        "timestamp": "2017-02-01T08:37:37.000Z",
+        "messageBody": "I  will pay on sunday of 5th and i will pay all the amount.. If that is allowed??"
+      },
+      {
+        "timestamp": "2017-02-01T10:38:21.000Z",
+        "messageBody": "I said ill pay 5th esther camoon.. Infact you guys took a week to give me a loan and just cant wait 4days for me to pay back??"
+      },
+      {
+        "timestamp": "2024-11-21T07:11:34.627Z",
+        "messageBody": "okay"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "444": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T10:27:36.000Z",
+        "messageBody": "I will clear my loan before 15nth,kindly bear with me.January was tough."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "676": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T08:53:25.000Z",
+        "messageBody": "Hi can i get the batch number pl"
+      },
+      {
+        "timestamp": "2017-02-03T08:53:45.000Z",
+        "messageBody": "Hi can i get the batch number"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "779": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T11:59:24.000Z",
+        "messageBody": "Hi branch I have just cleared my  loan which was due today but unfortunately you have denied me. I haven't applied for a loan since December but your system says that I have applied for a loan last week. Please review my loan"
+      },
+      {
+        "timestamp": "2017-02-02T12:03:52.000Z",
+        "messageBody": "My number is 0723506931. please have a review of my loan. I haven't defaulted and I have cleared my outstanding loan on the due date."
+      },
+      {
+        "timestamp": "2017-02-03T13:29:40.000Z",
+        "messageBody": "I Still not satisfied. I am still asking for a review.  My number is 0723506931 or at least give me a clear reason.  Thanks"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "1092": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T13:32:59.000Z",
+        "messageBody": "My number is 0790898526 help me to validate it please so i can be able to access the loan"
+      },
+      {
+        "timestamp": "2017-02-03T13:23:47.000Z",
+        "messageBody": "I got only this number please help me"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "1111": {
+    "messages": [
+      {
+        "timestamp": "2024-11-21T14:30:19.700Z",
+        "messageBody": "Hello"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "1155": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T01:31:34.000Z",
+        "messageBody": "Hello,our salaries have been delayed but hopefully will be paid today or tomorrow."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "1241": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T07:13:51.000Z",
+        "messageBody": "Thanks Branch for being understanding ..have cleared my loan....God bless you"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "1245": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T10:49:26.000Z",
+        "messageBody": "I was at CRB offices and they haven't received your clearance batch number. Please send it to me so I can clear with them."
+      },
+      {
+        "timestamp": "2017-02-02T11:17:18.000Z",
+        "messageBody": "I have to clear by tomorrow please send me the batch number"
+      },
+      {
+        "timestamp": "2017-02-03T10:58:35.000Z",
+        "messageBody": "Hi, kindly can i have the batch number"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "1354": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T06:32:10.000Z",
+        "messageBody": "My loan has been rejected because it was rejected recently, after 14days suspension am being suspended again for a further 7days"
+      },
+      {
+        "timestamp": "2017-02-02T16:03:40.000Z",
+        "messageBody": "Thank you for the loans i have benefitted from \"the branch\". Kindly expunge my details from your system. Its frustrating to be told to re apply in 7 days week in week out....it makes me look like a criminal. I will not be applying again."
+      },
+      {
+        "timestamp": "2017-02-02T23:47:48.000Z",
+        "messageBody": "No need just expunge my details from the system"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "1481": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T20:22:01.000Z",
+        "messageBody": "Hello. Why can't you make the loan payment options more... like say a choice between weekly and monthly.. someone to choose when applying for the loans..  regards"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2035": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T00:29:11.000Z",
+        "messageBody": "What am i supposed to do after paying in order to re"
+      },
+      {
+        "timestamp": "2017-02-02T12:25:39.000Z",
+        "messageBody": "Someone used"
+      },
+      {
+        "timestamp": "2017-02-02T12:55:13.000Z",
+        "messageBody": "Hi,sorry for the short text however Someone used my I.D and did register a line and took mshwari loan but venye nili realize nilipigia safaricom customer care and i did the payment  and cleared a bill of 299now i dont have  any what is the way forward."
+      },
+      {
+        "timestamp": "2017-02-03T03:36:39.000Z",
+        "messageBody": "Ok"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2126": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T10:03:06.000Z",
+        "messageBody": "Why has loan been rejected?"
+      },
+      {
+        "timestamp": "2017-02-01T10:07:22.000Z",
+        "messageBody": "Why has my loan application been rejected and i have never defaulted on any repayments and l always pay on time?"
+      },
+      {
+        "timestamp": "2017-02-01T10:17:10.000Z",
+        "messageBody": "What SMSs should i accumulate on my phone?"
+      },
+      {
+        "timestamp": "2017-02-01T10:20:24.000Z",
+        "messageBody": "All my Mpesa sms are stored in sim card for long period ...and none has been deleted..."
+      },
+      {
+        "timestamp": "2017-02-01T10:21:32.000Z",
+        "messageBody": "If there is a way u can check the mpesa sms in my phone.. Check and see all transactions sms are available ....and mpesa account is very active"
+      },
+      {
+        "timestamp": "2017-02-01T10:22:19.000Z",
+        "messageBody": "And have no current loan... Im upto date ..."
+      },
+      {
+        "timestamp": "2017-02-01T10:28:00.000Z",
+        "messageBody": "Kindly advise what sms are not in my phone...."
+      },
+      {
+        "timestamp": "2017-02-01T10:36:23.000Z",
+        "messageBody": "Any response to my above queries please???"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2517": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T12:36:50.000Z",
+        "messageBody": "I forwarded my certificate of clearance from trans union and even you replied that my account was cleared and you gave me a loan  of kshs 250 which I cleared. What is happening to my account?"
+      },
+      {
+        "timestamp": "2017-02-01T21:50:38.000Z",
+        "messageBody": "Ok thanks"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2780": {
+    "messages": [
+      {
+        "timestamp": "2017-01-31T18:35:55.000Z",
+        "messageBody": "I cant access your services"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2788": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T07:24:13.000Z",
+        "messageBody": "I promise to finish my loan by this month"
+      },
+      {
+        "timestamp": "2017-02-02T07:50:16.000Z",
+        "messageBody": "ok"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2884": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T02:26:47.000Z",
+        "messageBody": "I hv my transaction messages with me y am i not approved to this time? I urgently need the cash"
+      },
+      {
+        "timestamp": "2017-02-01T02:27:12.000Z",
+        "messageBody": "The messages are on my line..."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2926": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T17:12:26.000Z",
+        "messageBody": "Hi! I hope this will take you well, I cleared my loan"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "2983": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T05:19:28.000Z",
+        "messageBody": "Another 7 days what! For the third time now."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3056": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T08:27:40.000Z",
+        "messageBody": "Hey Branch i am sorry for being late in payment bt i will pay on Monday 6/2/2017 bt the reason of late repayment is due to maturing of cheque because it was signed late bt i apologize n opz it will never happen again."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3091": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T02:41:39.000Z",
+        "messageBody": "I'll pay the 32/= together with Monday's 566/="
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3112": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T06:10:55.000Z",
+        "messageBody": "Dis is keynan,can u kindly forward ma details to crb hve got stucked somewhere"
+      },
+      {
+        "timestamp": "2017-02-02T06:22:37.000Z",
+        "messageBody": "Am still getting from another financial institutions dat I owe branch 1068 n have already paid dat amount"
+      },
+      {
+        "timestamp": "2017-02-02T06:24:53.000Z",
+        "messageBody": "Can I have direct contact thus I keep untouched with da concern authorities"
+      },
+      {
+        "timestamp": "2017-02-03T01:49:54.000Z",
+        "messageBody": "Can I get batch number plz"
+      },
+      {
+        "timestamp": "2017-02-03T02:09:05.000Z",
+        "messageBody": "Dis is keynan did u shared my details with crb"
+      },
+      {
+        "timestamp": "2017-02-03T03:26:44.000Z",
+        "messageBody": "Hope da clearance last for 72grs"
+      },
+      {
+        "timestamp": "2017-02-03T03:27:16.000Z",
+        "messageBody": "72hrs"
+      },
+      {
+        "timestamp": "2017-02-03T03:28:06.000Z",
+        "messageBody": "Within aweek,specifically when plz"
+      },
+      {
+        "timestamp": "2017-02-03T07:58:40.000Z",
+        "messageBody": "How long does it for me to get da batch number cz hve cleared ma loan on 31st"
+      },
+      {
+        "timestamp": "2017-02-03T09:52:22.000Z",
+        "messageBody": "I appreciate for da follow-up u made tanx alot"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3170": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T09:21:36.000Z",
+        "messageBody": "sorry for that but i am still  searching for the money but will be paying the loan soon as the deadline i had set passed but i am doing all i can to settle the loan"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3643": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T05:35:59.000Z",
+        "messageBody": "Alright. Thanks."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3701": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T06:56:40.000Z",
+        "messageBody": "Why don't you want to give me a loan"
+      },
+      {
+        "timestamp": "2017-02-01T06:57:31.000Z",
+        "messageBody": "Do I have any other loan that I didn't pay"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3725": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T02:42:05.000Z",
+        "messageBody": "Sorry for the delay i block my mpesa pin but now its okey will pay by end of today"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3775": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T04:27:48.000Z",
+        "messageBody": "Hi Branch, why do i have the text that my payment is late while its due today? 3feb 2017"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3897": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T02:16:47.000Z",
+        "messageBody": "Hi branch kindly let me sort out the issue in a few days... I remain committed to settling my loans on time despite a few constraints"
+      },
+      {
+        "timestamp": "2017-02-03T02:26:41.000Z",
+        "messageBody": "I've settled many of your loans before please don't spoil my credit report"
+      },
+      {
+        "timestamp": "2017-02-03T02:45:33.000Z",
+        "messageBody": "I'm expecting to clear by date 8/2/2017"
+      },
+      {
+        "timestamp": "2017-02-03T13:12:29.000Z",
+        "messageBody": "Thanks for understanding my situation I look forward to settling my loans on the time I have promised"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "3900": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T03:04:54.000Z",
+        "messageBody": "Thanks branch had missed this"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "4178": {
+    "messages": [
+      {
+        "timestamp": "2017-01-31T22:40:13.000Z",
+        "messageBody": "Am sorry nlichelewa kulipa loan guys siyo kawaida yangu kuchelewesha lakini ni accident nlioata na mtoto wangu akachomeka na maji moto,naomba msamaha mwanzo mmeniinua sana kibiashara na ni ombi langu mtaendelea kunikopesha loan na tena ningeomba tafadhali don't lower loan limit please.will pay my loan on Friday, good day"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "4373": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T01:53:12.000Z",
+        "messageBody": "When am I qualified to get another loan"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "4442": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T07:37:30.000Z",
+        "messageBody": "Did sent the C Certificate"
+      },
+      {
+        "timestamp": "2017-02-02T08:52:54.000Z",
+        "messageBody": "I require a feedback plz"
+      },
+      {
+        "timestamp": "2017-02-02T10:01:06.000Z",
+        "messageBody": "Hi! Am sure acc details are correct. Have not received the loan yet..."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "4481": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T01:11:44.000Z",
+        "messageBody": "R u guys going to punish me for ever?"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "4522": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T06:11:28.000Z",
+        "messageBody": "Meanings"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "4708": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T00:17:09.000Z",
+        "messageBody": "I cleared last year for how long"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "5000": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T15:26:04.000Z",
+        "messageBody": "Hi Branch, am among your best beneficiaries of the Tala platform. However,  I have hit a 'dead-end' situation on my payment which is late for almost 5weeks after I took the loan. It has been caused by a temporal stagnation from my employment that was abruptly halted due to funding issues. Need to request for a little time extra as I commit myself to clear this loan I have. Kindly respond we agree on an amicable plan if payment. My Tel: 0723 496 592. Waiting for your feedback.   Regards,  Kenedy Sifuma"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "5297": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T10:08:22.000Z",
+        "messageBody": "it can't be 1264 had paid 400 earlier pls update your systems and give the right balance"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "5480": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T06:58:31.000Z",
+        "messageBody": "Hi branch,  Yes I have a problem which I thought it could have been through by now but it's not through. I have not been paid yet but kindly allow me to pay by next week please."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "5696": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T07:30:34.000Z",
+        "messageBody": "Iam sending the full amount today just got busy"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "5724": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T01:23:55.000Z",
+        "messageBody": "Some lady from brunch calls me n starts to abuse me just because i said av paid a total of 1000 which she claims from her side av paid on 600 .that my loan is 18394 n yet it shows hear clearly its 17994 .my question is ,is that how people who have defaulted are addressed coz surely av started paying ? N av introduced people who are paying so why look down on orhers"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "6054": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T10:16:03.000Z",
+        "messageBody": "Hi, l have paid my loan on time but, my loan has been rejected. Why has it been rejected?"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "6326": {
+    "messages": [
+      {
+        "timestamp": "2017-02-03T08:02:47.000Z",
+        "messageBody": "Can't login"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "6515": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T20:39:54.000Z",
+        "messageBody": "Hi..please I can pay my loan in a month once..adjust your payment schedule and give options whether to pay weekly or monthly.."
+      },
+      {
+        "timestamp": "2017-02-01T20:41:40.000Z",
+        "messageBody": "The weekly text rimindance"
+      },
+      {
+        "timestamp": "2017-02-01T20:42:24.000Z",
+        "messageBody": "The weekly text rem are a nuisance"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "6884": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T14:10:52.000Z",
+        "messageBody": "OK I have paid all of it"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "7140": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T07:36:55.000Z",
+        "messageBody": "Why cant i have a loan now yet i have cleared my previous loan"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "7457": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T16:56:17.000Z",
+        "messageBody": "How do I get a loan"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "7725": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T04:55:44.000Z",
+        "messageBody": "Dear Branch, sorry for late payment of my loan. This is due to unavoidable circumstances but I strive to clear the loan before Wednesday 8th feb next week"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "7812": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T04:49:24.000Z",
+        "messageBody": "Hi Branch,by 7th i promise to make some payment to reduce my loan."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "7837": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T00:37:30.000Z",
+        "messageBody": "Why was my loan request rejected and i have been paying on time"
+      },
+      {
+        "timestamp": "2017-02-01T03:26:57.000Z",
+        "messageBody": "So in short  because i don't  have the SMS  that the e reason."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "7944": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T02:07:00.000Z",
+        "messageBody": "Dear Branch,Am experiencing difficult in payments but will deposit tomorrow evening.Thank you"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "8014": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T10:06:51.000Z",
+        "messageBody": "Hi ,whats the 7more days penalty for ?be frank n specify.I paid the previous loan on time."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "8101": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T04:13:04.000Z",
+        "messageBody": "I have been trying this app for a long period... When i apply.. Am told try after 7 days...iy has become a song...i this app real or am waisting mi time and bundles for nothing?"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "8125": {
+    "messages": [
+      {
+        "timestamp": "2017-01-31T20:50:12.000Z",
+        "messageBody": "Will pay be4 15th"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "8392": {
+    "messages": [
+      {
+        "timestamp": "2017-02-02T08:21:56.000Z",
+        "messageBody": "I been with u For long an I made amistake but I won't repeat it agian I was having a sick ness...."
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "8647": {
+    "messages": [
+      {
+        "timestamp": "2017-02-01T10:22:35.000Z",
+        "messageBody": "Hi Branch...now my Application was rejected recently on 1st Feb 2017. I had borrowed Sh.25,000 in December 2015 of which I was slightly late in paying but I payed the whole loan today only to be dissapointed when I apply for another. It says I reapply again in 7days which is too long for me at the moment because I desperately need the cash. How can you assist?"
+      },
+      {
+        "timestamp": "2017-02-01T10:23:24.000Z",
+        "messageBody": "Sorry,I meant December 2016"
+      }
+    ],
+    "taken": false,
+    "index": 0
+  },
+  "12313": {
+    "messages": [
+      {
+        "timestamp": "2024-11-21T14:32:46.704Z",
+        "messageBody": "123"
+      }
+    ],
+    "taken": false,
+    "index": 0,
+    "chatHistory": []
+  },
+  "21313": {
+    "messages": [
+      {
+        "timestamp": "2024-11-21T14:32:21.983Z",
+        "messageBody": "Hello"
+      }
+    ],
+    "taken": false,
+    "index": 0,
+    "chatHistory": []
+  }
+}
