@@ -1,8 +1,18 @@
-# How to set up
+# How to Set up
 
 ## Prerequisites
+- Git
 - Node.js
 - npm
+
+## Cloning the Repository
+```bash
+# Clone the repository
+git clone https://github.com/Upasana112/Assignment-BI.git
+
+# Navigate to the project directory
+cd Assignment-BI
+```
 
 ## Installation
 
